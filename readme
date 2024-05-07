@@ -1,0 +1,9 @@
+All Routes for this api:-
+
+API health: http://localhost:4000/api/v1/health
+.
+API Register User: http://localhost:4000/api/v1/auth/register
+.
+API Login User: http://localhost:4000/api/v1/auth/login
+.
+API private Route: http://localhost:4000/api/v1/user/privateUser
